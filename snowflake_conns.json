@@ -1,0 +1,10 @@
+{
+    "SnowFlakeDB": {
+        "user": "USER_NAME_HERE",
+        "password": "PASSWD",
+        "account": "ACCT_NAME",
+        "schema": "PUBLIC",
+        "warehouse": "WAREHOUSE_NAME_HERE",
+        "role":"ROLE_NAME"
+    }
+}
